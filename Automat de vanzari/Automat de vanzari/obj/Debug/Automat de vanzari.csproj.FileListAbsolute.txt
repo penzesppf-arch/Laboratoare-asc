@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Laboratoare-asc\Automat de vanzari\Automat de vanzari\bin\Debug\Automat de vanzari.exe.config
+C:\Users\admin\Desktop\Laboratoare-asc\Automat de vanzari\Automat de vanzari\bin\Debug\Automat de vanzari.exe
+C:\Users\admin\Desktop\Laboratoare-asc\Automat de vanzari\Automat de vanzari\bin\Debug\Automat de vanzari.pdb
+C:\Users\admin\Desktop\Laboratoare-asc\Automat de vanzari\Automat de vanzari\obj\Debug\Automat de vanzari.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laboratoare-asc\Automat de vanzari\Automat de vanzari\obj\Debug\Automat de vanzari.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laboratoare-asc\Automat de vanzari\Automat de vanzari\obj\Debug\Automat de vanzari.exe
+C:\Users\admin\Desktop\Laboratoare-asc\Automat de vanzari\Automat de vanzari\obj\Debug\Automat de vanzari.pdb
