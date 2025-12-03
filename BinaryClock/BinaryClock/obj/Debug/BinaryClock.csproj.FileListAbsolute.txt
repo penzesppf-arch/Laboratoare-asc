@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Laboratoare-asc\BinaryClock\BinaryClock\bin\Debug\BinaryClock.exe.config
+C:\Users\admin\Desktop\Laboratoare-asc\BinaryClock\BinaryClock\bin\Debug\BinaryClock.exe
+C:\Users\admin\Desktop\Laboratoare-asc\BinaryClock\BinaryClock\bin\Debug\BinaryClock.pdb
+C:\Users\admin\Desktop\Laboratoare-asc\BinaryClock\BinaryClock\obj\Debug\BinaryClock.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Laboratoare-asc\BinaryClock\BinaryClock\obj\Debug\BinaryClock.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Laboratoare-asc\BinaryClock\BinaryClock\obj\Debug\BinaryClock.exe
+C:\Users\admin\Desktop\Laboratoare-asc\BinaryClock\BinaryClock\obj\Debug\BinaryClock.pdb
